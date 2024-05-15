@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Abdelrahman Emad</h1>
 <h3 align="center">A passionate Machine Learning / Data Analyst from Egypt</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=aboodtt404&label=Profile%20views&color=0e75b6&style=flat" alt="aboodtt404" /> </p>
-
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aboodtt404" alt="aboodtt404" /></a> </p>
 
 - 🔭 I’m currently working on [Bitcoin Prediction](https://github.com/Aboodtt404/ML-Bitcoin-Prediction.git)
