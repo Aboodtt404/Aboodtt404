@@ -5,8 +5,6 @@
 
 - 🌱 I’m currently learning **NLP, TensorFlow Google Course, etc..**
 
-- 💬 Ask me about **Algorithms, Frameworks, Applications, etc..**
-
 - 📫 How to reach me **abdelrahmansat2003@gmail.com**
 
 - ⚡ Fun fact **I think i am funny, but i'm not**
