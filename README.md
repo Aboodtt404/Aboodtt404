@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Abdelrahman Emad</h1>
 <h3 align="center">A passionate Machine Learning / Data Analyst from Egypt</h3>
 
-- 🔭 I’m currently working on [Smart Assistant]()
+- 🔭 I’m currently working on [Smart Assistant](https://github.com/Aboodtt404/NLP)
 
 - 🌱 I’m currently learning **NLP, TensorFlow Google Course, etc..**
 
