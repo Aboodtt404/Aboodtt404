@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Abdelrahman Emad</h1>
 <h3 align="center">A passionate Machine Learning / Data Analyst from Egypt</h3>
 
-- 🔭 I’m currently working on [Bitcoin Prediction](https://github.com/Aboodtt404/ML-Bitcoin-Prediction.git)
+- 🔭 I’m currently working on [Smart Assistant]()
 
 - 🌱 I’m currently learning **NLP, TensorFlow Google Course, etc..**
 
