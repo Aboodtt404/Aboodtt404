@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Abdelrahman Emad</h1>
 <h3 align="center">A passionate Machine Learning / Data Analyst from Egypt</h3>
 
-- 🔭 I’m currently working on [Smart Assistant](https://github.com/Aboodtt404/NLP)
+- 🔭 I’m currently **working on ICP Notes dApp**
 
-- 🌱 I’m currently learning **NLP, TensorFlow Google Course, etc..**
+- 🌱 I’m currently **diving deeper into Web3, learning about advanced smart contract development (Rust), decentralized governance (DAOs), and Layer 2 scaling solutions.**
 
-- 📫 How to reach me **abdelrahmansat2003@gmail.com**
+- 📫 How to reach me: **abdelrahmansat2003@gmail.com**
 
-- ⚡ Fun fact **I think i am funny, but i'm not**
+- ⚡ Fun fact: **I think I'm funny, but I'm not.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
