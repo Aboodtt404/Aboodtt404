@@ -23,7 +23,7 @@
 
 ### 🧠 Web3 & Blockchain
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" width="40" /> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rust/rust-original.svg" width="40" /> 
   <img src="https://cryptologos.cc/logos/internet-computer-icp-logo.svg?v=026" width="40" />
   <img src="https://avatars.githubusercontent.com/u/30354616?s=200&v=4" width="40" title="DFINITY / ICP" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/solidity/solidity-original.svg" width="40" />
