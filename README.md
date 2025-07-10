@@ -24,10 +24,10 @@
 ### 🧠 Web3 & Blockchain
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-plain.svg" width="40" /> 
-  <img src="https://upload.wikimedia.org/wikipedia/commons/6/6f/Web3_logo.png" width="40" /> 
+  <img src="https://cryptologos.cc/logos/internet-computer-icp-logo.svg?v=026" width="40" />
   <img src="https://avatars.githubusercontent.com/u/30354616?s=200&v=4" width="40" title="DFINITY / ICP" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/solidity/solidity-original.svg" width="40" />
-  <img src="https://raw.githubusercontent.com/MetaMask/brand-resources/master/SVG/metamask-fox.svg" width="40" />
+  <img src="https://seeklogo.com/images/M/metamask-logo-09EDE53DBD-seeklogo.com.png" width="40" />
 </p>
 
 ### 💻 Frontend
