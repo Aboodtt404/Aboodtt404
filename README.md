@@ -1,6 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on ICP Notes — a fully on-chain decentralized note-taking dApp on the Internet Computer (ICP).<br>🌱 Exploring smart contracts (Rust, Motoko), DAOs, and AI on blockchain.<br>🎮 Merging Web3 with game development (Unity, Unreal Engine, Godot) & NFT economies.<br>🤖 Integrating machine learning models in dApps for decentralized intelligence.<br>📫 Reach me at: abdelrahmansat2003@gmail.com<br>⚡ Fun fact: I debug my code like a detective—clueless at first, but eventually right.
-
+🔭 I’m currently working on ICP Notes — a fully on-chain decentralized note-taking dApp on the Internet Computer (ICP).<br>🌱 Exploring smart contracts (Rust, Motoko), DAOs, and AI on blockchain.<br>🎮 Merging Web3 with game development (Unity, Unreal Engine, Godot) & NFT economies.<br>🤖 Integrating machine learning models in dApps for decentralized intelligence.<br>📫 Reach me at: abdelrahmansat2003@gmail.com
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/tete404) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/abdelrahman-emad-a06aa5268/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:abdelrahmansat2003@gmail.com) 
 
