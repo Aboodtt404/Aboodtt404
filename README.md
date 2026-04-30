@@ -4,19 +4,19 @@
 
 ---
 
-## 💫 About Me
+## About Me
 
-🔭 Core engineer on **[Menese Protocol](https://meneseprotocol.io)** — a non-custodial multichain DeFi platform on the Internet Computer (16+ integrated chains, live beta since Jan 2026). I own the **Aptos bridge**, **TP/SL & DCA automation engine**, and a **Concentrated Liquidity Market Maker** (Uniswap V3 math ported to Motoko).
+Core engineer on **[Menese Protocol](https://meneseprotocol.io)** — a non-custodial multichain DeFi platform on the Internet Computer (16+ integrated chains, live beta since Jan 2026). I own the **Aptos bridge**, **TP/SL & DCA automation engine**, and a **Concentrated Liquidity Market Maker** (Uniswap V3 math ported to Motoko).
 
-🤖 Built **MotokoCoderV0** — the first code-generation model for Motoko. Fine-tuned Qwen3-Coder-30B-A3B (MoE) with LoRA + rsLoRA to a **70% compiler-verified pass rate**. Apache-2.0 on Hugging Face.
+Assisted with **MotokoCoderV0** — the first code-generation model for Motoko. Fine-tuned Qwen3-Coder-30B-A3B (MoE) with LoRA + rsLoRA to a **70% compiler-verified pass rate**. Apache-2.0 on Hugging Face.
 
-🧠 Built **Menese Agent** — an autonomous multi-agent LLM system for DeFi portfolio management. Self-hosted 72B inference, event-sourced execution, running 24/7 against a $50K paper portfolio.
+Built **Menese Agent** — an autonomous multi-agent LLM system for DeFi portfolio management. Self-hosted 72B inference, event-sourced execution, running 24/7 against a $50K paper portfolio.
 
-📦 Sole maintainer of `@menese_protocol/menese-protocol` and `@menese_protocol/mcp-server` — npm packages exposing the protocol to Claude Code, Claude Desktop, and Cursor via MCP.
+Sole maintainer of `@menese_protocol/menese-protocol` and `@menese_protocol/mcp-server` — npm packages exposing the protocol to Claude Code, Claude Desktop, and Cursor via MCP.
 
-🎓 B.Sc. Computer Science, Misr International University (GPA 3.5). Graduation project: **MotionLab**, a markerless video-to-3D motion-capture pipeline (MediaPipe → PyTorch lifting → BVH → Three.js/Blender).
+B.Sc. Computer Science, Misr International University (GPA 3.5). Graduation project: **MotionLab**, a markerless video-to-3D motion-capture pipeline (MediaPipe → PyTorch lifting → BVH → Three.js/Blender).
 
-📫 Reach me: [abdelrahmansat2003@gmail.com](mailto:abdelrahmansat2003@gmail.com)
+Reach me: [abdelrahmansat2003@gmail.com](mailto:abdelrahmansat2003@gmail.com)
 
 ## 🌐 Socials
 
