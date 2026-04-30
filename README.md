@@ -5,7 +5,7 @@
 
 ## About Me
 
-Core engineer on **[Menese Protocol](https://meneseprotocol.io)** — a non-custodial multichain DeFi platform on the Internet Computer (16+ integrated chains, live beta since Jan 2026). I own the **Aptos bridge**, **TP/SL & DCA automation engine**, and a **Concentrated Liquidity Market Maker** (Uniswap V3 math ported to Motoko).
+Core engineer on **[Menese Protocol](https://meneseprotocol.io)** — a non-custodial multichain DeFi platform on the Internet Computer (16+ integrated chains, live beta since Jan 2026)
 
 Assisted with **MotokoCoderV0** — the first code-generation model for Motoko. Fine-tuned Qwen3-Coder-30B-A3B (MoE) with LoRA + rsLoRA to a **70% compiler-verified pass rate**. Apache-2.0 on Hugging Face.
 
