@@ -1,7 +1,5 @@
 <h1 align="center">Abdelrahman Mohamed</h1>
 <h3 align="center">Web3 & AI Engineer — ICP · DeFi · Applied LLMs</h3>
-<p align="center">📍 Doha, Qatar</p>
-
 ---
 
 ## About Me
