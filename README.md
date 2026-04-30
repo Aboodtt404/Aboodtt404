@@ -68,16 +68,6 @@ Reach me: [abdelrahmansat2003@gmail.com](mailto:abdelrahmansat2003@gmail.com)
 
 ---
 
-## 🔭 Selected Work
-
-- **[Menese Protocol](https://meneseprotocol.io)** — Multichain DeFi on ICP (Aptos bridge · TP/SL/DCA engine · CLMM with Q64.96 fixed-point math)
-- **MotokoCoderV0** — First Motoko code-gen model · Qwen3-Coder-30B + LoRA · 70% compiler-verified pass rate
-- **Menese Agent** — Autonomous multi-agent LLM system for 24/7 DeFi portfolio management
-- **MotionLab** — Markerless video-to-3D mocap pipeline (graduation project, team lead)
-- **Other ICP work** — `gasless-bridge` (Rust), `AuditorBox`, `KYCModule`, `BloomChain`
-
----
-
 ## 📊 GitHub Stats
 
 ![](https://github-readme-stats.vercel.app/api?username=Aboodtt404&theme=onedark&hide_border=false&include_all_commits=false&count_private=false)<br/>
